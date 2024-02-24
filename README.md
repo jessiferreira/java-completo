@@ -25,3 +25,5 @@
 - **Maven** para gerenciamento de dependências de projeto
 - **Spring Data JPA** - framework para acesso a dados ORM
 - **Spring Data MongoDB** - framework para acesso a dados NoSQL ao banco MongoDB
+#
+#### Curso ministrado pelo professor Nelio Alves | [Acesse aqui](https://www.udemy.com/course/java-curso-completo)
