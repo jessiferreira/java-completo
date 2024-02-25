@@ -14,14 +14,11 @@ decimais.
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        int numeroFuncionario, horas;
-        double valorHora, salario;
+        int numeroFuncionario = sc.nextInt();
+        int horas = sc.nextInt();
+        double valorHora = sc.nextDouble();
 
-        numeroFuncionario = sc.nextInt();
-        horas = sc.nextInt();
-        valorHora = sc.nextDouble();
-
-        salario = horas * valorHora;
+        double salario = horas * valorHora;
 
         System.out.println("NUMBER = " + numeroFuncionario);
         System.out.printf("SALARY = %.2f\n", salario);
