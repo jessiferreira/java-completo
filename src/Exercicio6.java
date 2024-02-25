@@ -41,3 +41,5 @@ e) a área do retângulo que tem lados A e B
 
     }
 }
+
+
